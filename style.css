@@ -1,0 +1,32 @@
+.bg-image{
+  background-image: url("guitar.jpg");
+height: 300px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.bg-image-2{
+  background-image: url("scream.jpg");
+height: 300px;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.text-shadow{
+  text-shadow: 1px 1px black;
+}
+body{
+  background-color: gray;
+}
+.opacity{
+  opacity: 75%;
+}
+
+.d-column{
+  flex-flow: column;
+}
+
+.align-text-right{
+  text-align: right;
+}
